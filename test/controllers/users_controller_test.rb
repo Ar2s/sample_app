@@ -7,4 +7,5 @@ class UsersControllerTest < ActionController::TestCase
     assert_select "title", "Sign up | Ruby on Rails Tutorial Sample App"
   end
 
+
 end
